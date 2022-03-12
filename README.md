@@ -5,7 +5,7 @@
 |short name|**DUCF**|
 |title|Dementia-related user-based collaborative filtering for imputing missing data and generating a reliability scale on clinical test scores|
 |authors|[Savas Okyay](https://orcid.org/0000-0003-3955-6324) and [Nihat Adar](https://orcid.org/0000-0002-0555-0701)|
-|journal|<TBC>|
+|journal|_TBC_|
 |_submitted on_|December 31, 2021|
 
 ## General Info
