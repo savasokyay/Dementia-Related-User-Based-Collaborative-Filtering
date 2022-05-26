@@ -1,13 +1,23 @@
-# The Repository of the Manuscript* "Dementia-related user-based collaborative filtering for imputing missing data and generating a reliability scale on clinical test scores"
-*Submitted to an SCIE journal and under review.
+# The Repository of the Article "Dementia-related user-based collaborative filtering for imputing missing data and generating a reliability scale on clinical test scores"
 |name|value|
 |--:|:--|
 |short name|**DUCF**|
 |title|Dementia-related user-based collaborative filtering for imputing missing data and generating a reliability scale on clinical test scores|
 |authors|[Savas Okyay](https://orcid.org/0000-0003-3955-6324) and [Nihat Adar](https://orcid.org/0000-0002-0555-0701)|
-|journal|_TBC_|
-|_submitted on_|December 31, 2021|
+|doi|[10.7717/peerj.13425](https://doi.org/10.7717/peerj.13425)|
+|journal|[PeerJ Life and Environment](https://peerj.com/)|
+|_submitted on_|January 5, 2022|
 |_revised on_|March 25, 2022|
+|_accepted on_|April 21, 2022|
+|_published on_|May 26, 2022|
+
+## How to cite this article?
+Okyay S, Adar N. 2022. Dementia-related user-based collaborative filtering for imputing missing data and generating a reliability scale on clinical test scores. **PeerJ 10:e13425 DOI 10.7717/peerj.13425**
+
+|more styles||
+|--:|:--|
+|IEEE|S. Okyay and N. Adar, "Dementia-related user-based collaborative filtering for imputing missing data and generating a reliability scale on clinical test scores," *PeerJ*, 10, e13425, 2022, doi: 10.7717/peerj.13425.|
+|APA6|Okyay, S., & Adar, N. (2022). Dementia-related user-based collaborative filtering for imputing missing data and generating a reliability scale on clinical test scores. *PeerJ*, 10, e13425. doi:10.7717/peerj.13425|
 
 ## General Info
 This repository contains the supplementary material of the manuscript "_Dementia-related user-based collaborative filtering for imputing missing data and generating a reliability scale on clinical test scores_" by [_Savas Okyay_](https://orcid.org/0000-0003-3955-6324) and [_Nihat Adar_](https://orcid.org/0000-0002-0555-0701).
